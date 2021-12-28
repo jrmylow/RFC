@@ -88,8 +88,8 @@ Why does the type of field matter? The next two examples will help show the diff
  
 ### Case #2 - narrowing curve
 Consider the case where the skill gap between the initial best performers and worst performers narrows over time. As an org, would this worry you?
- 
-![[Pasted image 20211228161945.png]]
+
+![fig2](/2021-12%20Recruiting/Pasted%20image%2020211228161945.png)
 
 I think that whether this is worrying or not has to come down to two questions:
 * Whether the nature of the work is one that tends to have outliers with outsized performance (long-tail effects)
@@ -104,7 +104,7 @@ What might this mean for recruiting? It may mean that an org can save cost and e
 ### Case #3 - widening curve
 Consider the case where the skill gap between the initial best performers and worst performers widens over time. Again, let's ask the question whether, as an org, this would worry you?
 
-![[Pasted image 20211228162201.png]]
+![fig3](/2021-12%20Recruiting/Pasted%20image%2020211228162201.png)
 
 Without rehashing too much of the previous section, I'll leave an example of where this kind of curve is fine: venture capital. When your top ~1% of companies are worth as much as the rest of your portfolio, you'll often rely on your stars for growth rather than your portfolio floor.[^10]
 
