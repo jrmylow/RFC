@@ -78,7 +78,7 @@ The thought experiment that started off most of this essay to begin with was the
 
 A graph (made in [tldraw](https://www.tldraw.com/)) showing this:
  
-![[Pasted image 20211228162054.png]]
+![Pasted image 20211228162054.png]('Pasted image 20211228162054.png')
  
 Now, some variation might be expected here and there (people's lives are complicated). However, something like a consistent reversal over multiple years would worry me deeply. I would have no confidence in the signal of such a system to predict people who would be helpful to an org. Even if there was no correlation that would likely be concerning if early decisions (e.g. team allocations) were made on the basis of such suspect signals.
  
