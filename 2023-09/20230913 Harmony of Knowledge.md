@@ -28,3 +28,10 @@ Why bring this up?
 
 Potentially it hints at some underlying technique for teaching - where teachers can stimulate curiosity in students by linking ideas across other subjects. Perhaps it hints at a more fundamental truth - that knowledge that is true exists in harmony with the rest of things. Perhaps it's useful in choosing a mix of education as a parent - suggesting that sufficient breadth and depth is needed to sustain interest...
 
+---
+Temporary notes:
+* Thinking about statistics clases and why they didn't make sense
+* Distributions too abstract? formulas for the sake of formulas?
+* Do some abstractions/techniques not make sense until you see the problem?
+	* E.g. various complaints about teachers using too-simple example to demonstrate otherwise time-saving algorithms in math classes
+* Further - link in the qualitative observation that problems appear to change dramatically at or around increases in order of magnitude
